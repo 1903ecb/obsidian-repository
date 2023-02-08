@@ -1,0 +1,11 @@
+#created_by_me #not_research
+- project xanadu 
+- cult of rationality 
+- projecting electricity through a vaccuum
+- industrial revolution 
+- employment as a scientist 
+	- crazy science, throwing things and seeing if it sticks
+- imitation game, alan turing 
+- victorian internet book, tom standage 
+- assemblage theory 
+	- [[Jan 11, W1 notes]]
