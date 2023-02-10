@@ -1,13 +1,9 @@
 # Obsidian Notes
 
-Publish your public notes with MkDocs
+This is my memex!
 
-## Hello World!
+Start with my lecture notes from the first day of lectures
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+[[Jan 11, W1 notes]] in `HIST notes`
 
-The folders in `/docs` appear as the main sections on the navigation bar.
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
-
-Testing to see if i ran this right :P
