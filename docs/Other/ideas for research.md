@@ -9,3 +9,5 @@
 - victorian internet book, tom standage 
 - assemblage theory 
 	- [[Jan 11, W1 notes]]
+- information theory
+- the social network (facebook)
