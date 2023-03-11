@@ -2,7 +2,7 @@
 
 This is my memex!
 
-My notes are categorized into [[HIST notes]] , [[Ideas]] , [[Sources]] , [[Other]] , 
+My notes are categorized into HIST notes , Ideas, Sources , Other , 
 
 HIST notes perptain to my lecture notes, all of my notes after [[Feb 1, W4 notes]] are new to this memex
 
