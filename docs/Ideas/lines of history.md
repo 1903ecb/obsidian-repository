@@ -3,3 +3,9 @@
 this note pertains to ideas about how we view history, specifically in relation to the development of technology overtime 
 
 - synchonyc vs dysynchronous [[fysm]]
+
+[[Connections, Faith in Numbers Ep4]]
+[[future society]]
+[[Ideas for labels, to make links]]
+[[Jan 30, W4 notes]]
+[[Project Xanadu]]

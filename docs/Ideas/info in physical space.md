@@ -1,7 +1,7 @@
 #created_by_me 
 - the medium information is presented on affects the way we use it 
 	- [[Project Xanadu]]
-	- does this somehow connect to [[assemblage theory]]
+	- does this somehow connect to [[technology as extension of self]]
 
 - distribution of resources that information is presented on affects distribution of knowledge 
 	- printing press

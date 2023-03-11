@@ -7,4 +7,13 @@
 how this relates to power and the control of information 
 - [[info in physical space]]
 - information exists as an object, rarity and scarcity of information (class / money)
-	- people who have the resources to develop the infrastructure to make / hold the knowledge also have all the power of that knowledge 
+	- people who have the resources to develop the infrastructure to make / hold the knowledge also have all the power of that knowledge \
+
+Backlinks
+- [[complex vs complicated]]
+- [[Connections, Wheel of Fortune Ep5]]
+- [[future society]]
+- [[Ideas for labels, to make links]]
+- [[Jan 11, W1 notes]]
+- [[Jan 23, W3 notes]]
+- [[Jan 30, W4 notes]]
