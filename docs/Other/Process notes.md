@@ -8,8 +8,6 @@ are we just supposed to highlight to ideas that are common themes within the maj
 
 if you really wanted to you could link every single idea from this class and every single idea we read about can be linked together if you try hard enough 
 
-- but im assuming you don't want us to do that because it's literally impossible to connect ALL the broad ideas ever to each other like thats fucking dumb
-
 thoughts after office hours meeting 
 - I was infact mistaken and this is not as all encompasing as I feared 
 
