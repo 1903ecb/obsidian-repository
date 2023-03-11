@@ -1,4 +1,12 @@
 #created_by_me 
+“Project Xanadu®.” n.d. Accessed March 1, 2023. [https://www.xanadu.net/](https://www.xanadu.net/).
+
+---
+Summary:
+
+The website "Project Xanadu" is the incarnation of an idea primarily perpetiateed by Ted Nelson. He wanted to redesign the way in which we connect ideas across various readings and texts. Project Xanadu seeks to create a program that visually shows the connections between texts. 
+
+---
 
 Video one: 
 **[https://www.youtube.com/watch?v=Bqx6li5dbEY&ab_channel=TheTedNelson](https://www.youtube.com/watch?v=Bqx6li5dbEY&ab_channel=TheTedNelson)** 
