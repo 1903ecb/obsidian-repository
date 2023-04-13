@@ -16,3 +16,8 @@ I have added the new ideas note [[war develops tech]]
 I've updated the [[Ideas for research]] note
 
 I am  aware that I do not have 15 sources for this memex. However, I have since added 5 new sources ( [[Ether Or, exurb1a video]] , [[Dark Territory review]] , [[How a simple ‘hello’ became the first message sent via the Internet]] , [[How the space race built today's technology]] , [[Enigma Machine, Numberphile]] ) since the last memex. 
+
+---
+Here is the final graph view of my memex: 
+
+![memex graph](https://user-images.githubusercontent.com/122183451/231656790-e03d8fd7-18ae-4e61-8d41-89f668f61f5d.png)
