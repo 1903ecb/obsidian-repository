@@ -1,14 +1,16 @@
-# Obsidian Notes
+# Index
 
 This is my memex!
 
-My notes are categorized into HIST notes , Ideas, Sources , Other , 
+My notes are categorized into `HIST notes` , `Ideas`, `Sources` , `Other` , 
 
-HIST notes perptain to my lecture notes, all of my notes after [[Feb 1, W4 notes]] are new to this memex
+`HIST notes` perptain to my lecture notes, `Sources` pertain to external research, and `Ideas` are the general themes that connect lecture content to external research and my own thoughts
 
 ---
-Thoughts on this memex: 
+What I have added since Memex 2: 
 
-I am fully aware that I do not have 10 sources for this memex. However, I have since added two new sources ( [[As We May Think, Vannevar Bush]] , [[Connections, Yesterday Tomorrow and You Ep]] ) since the last memex.
+All `HIST notes` created after March 8th are new. 
 
-I have been finding doing readings and sources very difficult but I have a lot of ideas for sources and working on adding them to the next memex. 
+I have added the new ideas note [[war develops tech]]
+
+I am  aware that I do not have 15 sources for this memex. However, I have since added 5 new sources ( [[Ether Or, exurb1a video]] , [[Dark Territory review]] , [[How a simple ‘hello’ became the first message sent via the Internet]] , [[How the space race built today's technology]] , [[Enigma Machine, Numberphile]] ) since the last memex. 
