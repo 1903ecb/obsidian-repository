@@ -20,4 +20,5 @@ I am  aware that I do not have 15 sources for this memex. However, I have since 
 ---
 Here is the final graph view of my memex: 
 
-![memex graph](https://user-images.githubusercontent.com/122183451/231656790-e03d8fd7-18ae-4e61-8d41-89f668f61f5d.png)
+![2memex](https://user-images.githubusercontent.com/122183451/231657887-03cbf273-5eaf-4924-b7f1-8bfe78fdcf05.png)
+
