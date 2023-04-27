@@ -17,6 +17,11 @@ I've updated the [[Ideas for research]] note
 
 I am  aware that I do not have 15 sources for this memex. However, I have added 5 new sources ( [[Ether Or, exurb1a video]] , [[Dark Territory review]] , [[How a simple ‘hello’ became the first message sent via the Internet]] , [[How the space race built today's technology]] , [[Enigma Machine, Numberphile]] ) since the last memex. 
 
+--- 
+What I have added since Memex 3: 
+
+Basically all that I added was my final journey docs which you can see are located on the side. 
+
 ---
 Here is the final graph view of my memex: 
 
